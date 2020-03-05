@@ -1,0 +1,6 @@
+Spring:
+  profiles: integration
+clients:
+  blah:
+    server: http://localhost:8090
+resource: /api/path/v1.0/resourcename
